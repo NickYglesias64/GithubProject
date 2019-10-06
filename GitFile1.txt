@@ -4,3 +4,4 @@ First commit in Feature-A.
 Second commit in A.
 Third commit in A.
 First Commit in C.
+Second Commit in C.
