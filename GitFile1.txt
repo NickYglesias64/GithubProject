@@ -8,3 +8,6 @@ Second Commit in C.
 Third Commit in C.
 Fourth Commit in C.
 Fifth Commit in C.
+Fourth Commit in A.
+Fifth Commit in A.
+Sixth Commit in A.
